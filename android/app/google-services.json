@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175165445527",
+    "project_id": "bons-ventos-e3d29",
+    "storage_bucket": "bons-ventos-e3d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175165445527:android:af38e72da9998b4030a0d2",
+        "android_client_info": {
+          "package_name": "com.example.bonsventos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175165445527-e3ftiqahqls7m4tv80pumecoo3rnb4k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bonsventos",
+            "certificate_hash": "1e22f8c934dfabfd88dd0baf8f17570752b6d643"
+          }
+        },
+        {
+          "client_id": "175165445527-4qbc88c3tl5n8uuar2ail85m33uj42ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW2Ib4BuoUQuFHr49qcWAgyPQJ2C1XeBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175165445527-4qbc88c3tl5n8uuar2ail85m33uj42ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
