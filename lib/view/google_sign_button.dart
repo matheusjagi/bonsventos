@@ -1,5 +1,5 @@
 import 'package:bonsventos/util/authentication.dart';
-import 'package:bonsventos/view/tela-principal.dart';
+import 'package:bonsventos/view/main_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
@@ -55,7 +55,7 @@ class _GoogleSignInButtonState extends State<GoogleSignInButon> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 Image(
-                  image: AssetImage("assets/google_logo.png"),
+                  image: AssetImage("assets/images/google_logo.png"),
                   height: 35.0,
                 ),
                 Padding(

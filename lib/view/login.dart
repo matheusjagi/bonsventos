@@ -1,5 +1,5 @@
 import 'package:bonsventos/util/authentication.dart';
-import 'package:bonsventos/view/google-sign-button.dart';
+import 'package:bonsventos/view/google_sign_button.dart';
 import 'package:flutter/material.dart';
 
 class TelaLogin extends StatefulWidget{
@@ -17,7 +17,7 @@ class _TelaLoginState extends State<TelaLogin>{
           Container(
             decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('assets/login-bonsventos.jpg'),
+                image: AssetImage('assets/images/login-bonsventos.jpg'),
                 fit: BoxFit.cover,
               )
             ),
